@@ -1,0 +1,101 @@
+car_name,price,kilometers_driven,year_of_manufacture,fuel_type,transmission,location,brand,scraped_at,data_source
+Maruti Suzuki Wagon R,"₹136,840","48,773 km",2021,Diesel,Manual,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Dzire,"₹345,264","26,549 km",2023,Diesel,Manual,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹96,404","63,596 km",2022,Diesel,Manual,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹60,000","47,800 km",2017,Petrol,Automatic,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Baleno,"₹150,000","24,312 km",2018,Petrol,Automatic,Pune,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹60,000","58,978 km",2017,Diesel,Automatic,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Vitara Brezza,"₹165,000","61,892 km",2018,Diesel,Manual,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Dzire,"₹325,248","35,445 km",2023,CNG,Automatic,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Vitara Brezza,"₹354,964","10,922 km",2021,Diesel,Manual,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹60,000","19,684 km",2015,CNG,Automatic,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Vitara Brezza,"₹371,998","44,728 km",2023,CNG,Automatic,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Ertiga,"₹180,000","20,212 km",2017,Diesel,Manual,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Ertiga,"₹218,364","27,212 km",2019,Petrol,Manual,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Baleno,"₹183,044","66,782 km",2021,Diesel,Manual,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Dzire,"₹135,000","67,608 km",2018,CNG,Manual,Pune,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Celerio,"₹124,298","68,972 km",2021,Petrol,Manual,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹139,105","67,263 km",2022,CNG,Automatic,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Baleno,"₹150,000","51,172 km",2015,Diesel,Manual,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹134,332","30,445 km",2020,CNG,Automatic,Chennai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Baleno,"₹164,664","14,134 km",2018,Diesel,Automatic,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹120,000","41,817 km",2018,Diesel,Automatic,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹60,000","49,852 km",2016,CNG,Automatic,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Celerio,"₹105,000","58,958 km",2019,Petrol,Manual,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹90,000","61,477 km",2018,Diesel,Manual,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹144,750","15,250 km",2022,Petrol,Automatic,Chennai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Ertiga,"₹180,000","49,698 km",2015,Petrol,Automatic,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Dzire,"₹354,159","22,596 km",2023,Petrol,Automatic,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹120,000","43,478 km",2015,CNG,Automatic,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Vitara Brezza,"₹165,000","74,660 km",2016,Diesel,Automatic,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Celerio,"₹132,322","24,387 km",2019,Diesel,Automatic,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Baleno,"₹158,794","16,482 km",2018,Petrol,Automatic,Chennai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Baleno,"₹290,750","63,700 km",2023,Diesel,Automatic,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Baleno,"₹286,702","25,319 km",2021,CNG,Manual,Pune,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹268,408","45,796 km",2023,CNG,Automatic,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹74,469","45,531 km",2020,Diesel,Manual,Pune,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹90,000","40,296 km",2019,CNG,Manual,Chennai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹120,000","60,498 km",2018,Diesel,Automatic,Pune,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹120,000","66,843 km",2017,CNG,Automatic,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹120,000","40,796 km",2015,CNG,Automatic,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹90,000","13,773 km",2015,Diesel,Automatic,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹90,000","73,290 km",2020,Diesel,Automatic,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹189,885","33,410 km",2022,Diesel,Automatic,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Ertiga,"₹442,773","32,409 km",2023,Diesel,Manual,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹141,746","38,254 km",2023,Diesel,Automatic,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Celerio,"₹183,398","75,201 km",2023,Petrol,Manual,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Ertiga,"₹180,000","12,764 km",2016,Diesel,Automatic,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Ertiga,"₹180,000","30,807 km",2018,Petrol,Manual,Pune,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Baleno,"₹358,592","36,563 km",2023,Petrol,Manual,Chennai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹182,095","38,603 km",2022,CNG,Automatic,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹240,693","19,653 km",2021,CNG,Automatic,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹120,000","62,465 km",2017,Petrol,Automatic,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹120,000","24,284 km",2018,Diesel,Automatic,Pune,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Baleno,"₹261,007","75,597 km",2023,CNG,Automatic,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Ertiga,"₹180,000","43,249 km",2016,Diesel,Manual,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹68,833","31,167 km",2019,Petrol,Automatic,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹120,000","11,032 km",2017,Diesel,Automatic,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Dzire,"₹146,551","14,866 km",2018,Diesel,Automatic,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹90,000","43,938 km",2017,Diesel,Manual,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Ertiga,"₹180,000","58,003 km",2015,Diesel,Automatic,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Vitara Brezza,"₹165,000","50,234 km",2019,CNG,Automatic,Pune,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹90,000","32,643 km",2018,CNG,Manual,Pune,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹215,848","36,101 km",2023,CNG,Manual,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Dzire,"₹247,473","30,012 km",2021,Diesel,Manual,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹76,182","23,818 km",2019,Diesel,Manual,Pune,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Vitara Brezza,"₹320,380","43,498 km",2022,Petrol,Automatic,Pune,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹83,233","76,767 km",2022,Diesel,Manual,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Dzire,"₹171,771","23,657 km",2019,Diesel,Automatic,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Vitara Brezza,"₹392,942","37,112 km",2023,CNG,Automatic,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Ertiga,"₹180,000","64,976 km",2019,Petrol,Automatic,Chennai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Dzire,"₹262,491","43,337 km",2022,CNG,Manual,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹103,423","76,577 km",2023,Petrol,Manual,Chennai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Ertiga,"₹447,759","30,747 km",2023,Petrol,Automatic,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹195,216","49,856 km",2023,Diesel,Automatic,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Celerio,"₹183,823","14,958 km",2020,Petrol,Automatic,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹60,107","19,892 km",2018,Diesel,Manual,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹120,000","60,247 km",2019,Diesel,Manual,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Ertiga,"₹180,000","50,964 km",2017,CNG,Automatic,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹60,000","17,454 km",2016,CNG,Automatic,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹76,138","63,862 km",2021,Diesel,Automatic,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹191,726","12,182 km",2021,Diesel,Manual,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Baleno,"₹150,000","14,330 km",2015,CNG,Manual,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Ertiga,"₹180,000","46,559 km",2015,CNG,Manual,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹120,000","64,094 km",2018,Petrol,Automatic,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Celerio,"₹105,000","30,599 km",2016,Petrol,Manual,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Baleno,"₹352,340","39,064 km",2023,Diesel,Manual,Pune,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹120,000","71,858 km",2018,CNG,Automatic,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Celerio,"₹105,000","28,269 km",2017,Diesel,Manual,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹60,000","40,872 km",2015,CNG,Automatic,Chennai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Dzire,"₹135,000","60,845 km",2020,Diesel,Manual,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹214,966","36,689 km",2023,Diesel,Automatic,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Celerio,"₹105,000","73,717 km",2018,Petrol,Manual,Bangalore,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹129,612","50,388 km",2023,Diesel,Automatic,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹213,340","13,330 km",2020,Petrol,Manual,Kolkata,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Swift,"₹263,694","48,153 km",2023,CNG,Automatic,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹60,000","53,831 km",2016,CNG,Automatic,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Dzire,"₹135,000","20,001 km",2016,Petrol,Manual,Hyderabad,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Alto,"₹70,551","49,448 km",2020,CNG,Automatic,Mumbai,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Vitara Brezza,"₹308,112","67,959 km",2023,CNG,Manual,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Ertiga,"₹320,445","73,185 km",2023,Diesel,Automatic,Delhi,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
+Maruti Suzuki Wagon R,"₹90,000","16,737 km",2017,CNG,Automatic,Pune,Maruti Suzuki,2025-10-20 16:52:45,realistic_sample
